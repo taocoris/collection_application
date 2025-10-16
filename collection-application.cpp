@@ -1,25 +1,3 @@
-/*
-    ---------------------------------------------------------------
-    6-Bit Kodlama Sistemi ile Karakter Tabanlı Toplama Uygulaması
-    ---------------------------------------------------------------
-    Bu program, Unix öncesi sistemlerin sınırlı Girdi/Çıktı (I/O)
-    ortamlarını simüle eder. Program kullanıcıdan iki adet tek haneli
-    rakamı ASCII karakterleri olarak okur, bu karakterlerin sayısal
-    değerlerini çözümler ve toplar.
-
-    Eğer toplama sonucu 9'dan büyükse, bu sistemin sınırını aşacağı
-    için hata mesajı verir.
-
-    Kodlama mantığı: 
-    ASCII karakter '0' ile '9' arası 48–57 aralığında temsil edilir.
-    Yani '0' karakterinin kodu 48, '1' karakterinin kodu 49’dur.
-    Dolayısıyla karakterden sayısal değeri elde etmek için (karakter - '0')
-    işlemi yapılır.
-
-    Yazan: [Taha Topaloğlu]
-    Tarih: [15.10.2025]
-*/
-
 #include <stdio.h>
 
 int main() {
