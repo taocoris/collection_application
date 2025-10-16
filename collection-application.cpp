@@ -16,8 +16,8 @@
     Dolayısıyla karakterden sayısal değeri elde etmek için (karakter - '0')
     işlemi yapılır.
 
-    Yazan: [Adını buraya yaz]
-    Tarih: [Tarih]
+    Yazan: [Taha Topaloğlu]
+    Tarih: [15.10.2025]
 */
 
 #include <stdio.h>
